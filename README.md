@@ -73,4 +73,4 @@ public class Dublicate{
 
 ## English:
 
-since I study at the SDU University, we have lessons in English and have a good experience in understanding the language
+since I study at the SDU, we have lessons in English and have a good experience in understanding the language
