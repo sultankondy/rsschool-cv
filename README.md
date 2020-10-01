@@ -8,7 +8,7 @@
 
 -----
 
-##Summary:
+## Summary:
 
 At the moment I am studying at the university, and my profession is an information system. Now I want a lot in my life, but since I'm a programmer 
 I want to learn a lot of programming languages. In general, I know java and I think javascript will not be difficult for me. if I learn good code 
@@ -71,6 +71,6 @@ public class Dublicate{
 }
 ```
 
-##English:
+## English:
 
 since I study at the SDU University, we have lessons in English and have a good experience in understanding the language
