@@ -1,6 +1,6 @@
-1.First Name: Sultan
-2.Last Name: Kondybay
-3.Contact Info:
+1. First Name: Sultan
+2. Last Name: Kondybay
+3. Contact Info:
 	- Phone: 87025915772;
 	- Email: sltnkondy@gmail.com;
 	- Telegram: @sltnkondy;
