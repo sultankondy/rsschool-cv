@@ -66,7 +66,6 @@ public class Dublicate{
 		Dublicate dub = new Dublicate(size);
 		System.out.println(Arrays.toString(dub.taskArr(size)));
 		System.out.println(dub.searchDubNum());
-		
 	}
 }
 ```
